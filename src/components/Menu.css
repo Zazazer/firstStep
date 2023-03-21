@@ -1,0 +1,23 @@
+select{
+    font-size: 19px;
+    line-height: 1.21053;
+    font-weight: 600;
+    letter-spacing: .012em;
+    width: 100%;
+    margin: 0;
+    padding: 17px 14px;
+    color: #000;
+    background: transparent;
+    border: 0;
+    appearance: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: left;
+    font-style: normal;
+    display: inline;
+}
+#case{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
